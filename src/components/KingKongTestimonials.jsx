@@ -124,7 +124,7 @@ export function KingKongTestimonials() {
         </div>
         
         <div className="text-center">
-          <div className="bg-gradient-to-r from-green-900/30 to-blue-900/30 border border-green-500/30 rounded-xl p-8 max-w-4xl mx-auto">
+          <div className="bg-gray-800 border border-green-500 rounded-xl p-8 max-w-4xl mx-auto">
             <h3 className="text-2xl font-bold text-white mb-4">
               THE PATTERN IS CLEAR
             </h3>
